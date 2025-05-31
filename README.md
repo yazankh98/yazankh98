@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm El-Hussein , a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
+### <div align="center">I'm Yazan , a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 - 🌱 I’m currently learning wordpress
